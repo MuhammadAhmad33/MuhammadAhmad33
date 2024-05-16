@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmad</h1>
 <h3 align="center">Full Stack Developer specializing in Web and AI/ML Technologies</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadahmad33&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadahmad33" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=muhammadahmad33&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadahmad33" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammadahmad33" alt="muhammadahmad33" /></a> </p>
 
